@@ -5,11 +5,12 @@
 ## About
 <p>
  This repository serves to document the development of the initial building blocks used to create a finalized version of a Guitar-Chord-Namer web application.
- Several building blocks being documented include:
+ Several building blocks being documented include:</p>
  - Music Theory Research (How are chords built?)
  - Chord Building Algorithm
  - Final Version Ideas
 
+<p>
  This project is sparked by my interest in music theory and being able to apply it to my own guitar playing. I find it particularly useful to put a name to a chord when writing music and my objective for this project is to create a web application that others want to use and benefit from.
 
  This project is heavily inspired by [Oolimo's Guitar Chord Finder](https://www.oolimo.com/en/guitar-chords/find)
